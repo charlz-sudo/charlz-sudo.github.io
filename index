@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <head><title>My Resume</title></head>
-  <body><h1>Hello, World! 网站已成功运行。</h1></body>
-</html>
+---
+layout: home
+title: 主页
+---
+
+欢迎来到我的个人博客，以下是最新文章：
