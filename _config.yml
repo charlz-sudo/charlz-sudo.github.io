@@ -1,5 +1,18 @@
 title: 我的技术博客 & 个人主页
-description: 分享技术心得与个人经历
-theme: minima # 官方经典主题，也可以尝试 minima, cayman, hacker 等
+email: your-email@domain.com
+description: >-
+  分享技术心得与个人经历，记录持续学习与实践的过程。
+baseurl: ""
+url: "https://resume.202668888.xyz"
+
+# 社交链接（Minima 会自动在页脚生成图标）
+github_username: charlz-sudo
+
+# 主题配置
+theme: minima
 plugins:
   - jekyll-feed
+
+# 导航栏配置（如果只想显示特定的页面，可以在这里指定）
+header_pages:
+  - index.md
