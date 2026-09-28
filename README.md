@@ -1,2 +1,2 @@
-# charlz-sudo.github.io
-My CV.
+# 个人空间
+闲言碎语
