@@ -1,5 +1,10 @@
-title: 个人简历
-## 自叙|About me
+---
+layout: page
+title: 个人简介
+permalink: /resume/
+---
+
+## 自叙 | About me
 
 余名查尔斯，或呼为查理。盖取华名之音，转而为西名耳。
 
@@ -9,8 +14,12 @@ title: 个人简历
 
 言止于此。
 
-My name is Charles—though my friends sometimes call me Charlie—an English name I chose based on the sound of my native name.
+---
+
+My name is Charles, though my friends sometimes call me Charlie — an English name I chose based on the sound of my native name.
 
 I live in southern China and have worked as an engineer, project manager, and trainer; currently, I serve as a recruitment lead and an HR Business Partner for the manufacturing division.
+
 I enjoy reading and ball sports. I have traveled to several countries and hope to have the chance to explore more beautiful places in the future.
-That’s all for now.
+
+That's all for now.
